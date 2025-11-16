@@ -7,17 +7,13 @@ namespace Exercicio3
     {
         static void Main(string[] args)
         {
-                     
+            int t = 65; //tamanho linha          
             Console.Write("Sr. Usuário por favor digite um numero inteiro? ");
             int numeroTeste = Convert.ToInt32(Console.Read());
             String resultado=TestaNumero(numeroTeste);
-            Linha(x);
+            Linha(t);
             Console.WriteLine("O numero digitado é " + resultado);
-                               
-            }
-
-
-
+                            
         }
         public static string TestaNumero(int numero)
         {
