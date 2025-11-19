@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Globalization;
 using System.Runtime.InteropServices;
 
-namespace Exercicio5
+namespace Exercicio6
 {
     internal class Program
     { // Programa custo da viagem

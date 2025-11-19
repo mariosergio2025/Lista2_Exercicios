@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercicio4
+namespace Exercicio5
 {
     internal class Program
     {

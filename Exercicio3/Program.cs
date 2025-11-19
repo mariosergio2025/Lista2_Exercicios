@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercicio2
+namespace Exercicio3
 {
     //Programa para descobrir se é para ou impar
     internal class Program

@@ -2,7 +2,7 @@
 using System.Reflection.Metadata;
 using System.Reflection.Metadata.Ecma335;
 
-namespace Exercicio1
+namespace Exercicio2
 {   // Programa Calculo da Area a ser Pintada e Quantidade Tinta
     internal class Program
     {

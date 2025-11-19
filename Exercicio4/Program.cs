@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Exercicio3
+namespace Exercicio4
 {
     internal class Program
     {

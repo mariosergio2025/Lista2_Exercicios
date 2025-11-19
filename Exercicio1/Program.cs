@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Exercicio0
+namespace Exercicio1
 {
     //Faça um programa que leia quanto dinheiro tem na carteira e converta o valor em dolar
     internal class Program
