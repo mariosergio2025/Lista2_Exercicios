@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Exercicio09
+namespace Exercicio09 // Na listagem esta com numero 8
 {   
-    // Programa para de concessao de emprestimo bancario
+    // Programa para de concessao de emprestimo bancario 
     internal class Program
     {
         static void Main(string[] args)
