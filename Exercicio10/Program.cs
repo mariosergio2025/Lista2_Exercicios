@@ -44,7 +44,7 @@
             valor = valor % 2;
             Console.WriteLine($"Entregando {qtdNotas2} de R$ 2,00 - Faltam {valor.ToString("C", ptBR)} reais do valor original do saque ..");
 
-            Console.WriteLine(($"Entregando 1 de 1")
+            Console.WriteLine(($"Entregando 1 de 1");
         }
     }
 }
